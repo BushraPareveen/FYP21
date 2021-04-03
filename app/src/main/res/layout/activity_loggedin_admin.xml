@@ -316,7 +316,6 @@
                             android:padding="10dp"
                             android:src="@drawable/post_interview_results"
                             tools:ignore="VectorDrawableCompat" />
-<!--This is a comment made to test change-->
                         <TextView
                             android:id="@+id/img"
                             android:layout_width="wrap_content"
